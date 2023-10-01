@@ -1,7 +1,6 @@
 """design a command-line contact book that allows user to to add, search and delete contacts using dictionaries and loops"""
 
-#what to do: create a function that asks for user input
-#assign a value to the user input(an integer in the form of a string)
+
 
 
 
